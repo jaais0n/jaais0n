@@ -1,12 +1,28 @@
-# 👋 Hi, I'm Jaison Jacob Samuel
+<!-- Animated Header -->
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jaison Jacob Samuel
+</h1>
 
-🎨 UI Designer | 💻 Computer Science Postgraduate | 🤖 AI Enthusiast  
-📍 Bengaluru, Karnataka  
+<h3 align="center">
+🎨 UI Designer | 💻 Computer Science Postgraduate | 🤖 AI Enthusiast
+</h3>
+
+<p align="center">
+📍 Bengaluru, Karnataka
+</p>
+
 <p align="center">
   <a href="mailto:jaisonjsamuel007@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p> 
+</p>
+
+---
+
+<!-- Coding Animation Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
+</p>
 
 ---
 
@@ -41,3 +57,8 @@
 </p>
 
 ---
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:412991&height=120&section=footer"/>
+</p>
