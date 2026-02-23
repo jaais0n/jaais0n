@@ -19,9 +19,9 @@
 
 ---
 
-<!-- Coding Animation Banner -->
+<!-- UI/UX Design Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" />
 </p>
 
 ---
@@ -58,7 +58,6 @@
 
 ---
 
-<!-- Animated Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:412991&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4088,100:0A66C2&height=120&section=footer"/>
 </p>
